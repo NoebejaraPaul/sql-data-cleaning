@@ -1,9 +1,9 @@
 # 📉 Layoffs Data Cleaning
 
 ## � Introduction
-This project focuses on cleaning a dataset of global layoffs from major companies (2020-2023). Using SQL, we ensure the data is clean, standardized, and ready for analysis.
+This project focuses on cleaning a dataset of global layoffs from major companies (2020-2023). Using SQL, I ensured the data is clean, standardized, and ready for analysis.
 
-🔍 **Check out the SQL queries used in this project:** [SQL Cleaning Scripts](#) *()*
+🔍 **Check out the SQL queries used in this project:** [SQL Cleaning Scripts](https://github.com/NoebejaraPaul/sql-data-cleaning/blob/main/layoffs_data_cleaning.sql) 
 
 ## 🔎 Background
 Handling real-world data often involves dealing with duplicates, inconsistencies, and missing values. This project applies a structured SQL-based cleaning process to prepare the layoffs dataset for meaningful analysis.
